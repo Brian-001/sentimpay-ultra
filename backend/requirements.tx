@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+openai
+praw
+redis
+sqlalchemy
+psycopg2-binary
+python-dotenv
+agentcash
+websockets
+celery
